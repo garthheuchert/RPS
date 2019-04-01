@@ -2,10 +2,10 @@
 {
     // For a match the sequence will follow the pattern
     // GetReady(); to set parameters for the match such as how many games will be played
-    // Repeated calls to the next two methods for each game
+    // Foreach game the next two methods will be call in turn
     //  MakeMove(); your turn
-    //  GameResult(); result of the game included what my move was
-    // End of repeated calls
+    //  GameResult(); result of the game including what my move was
+    // End of foreach game
     // Result(); to give final result for match
     public interface IRPSPlayer
     {
