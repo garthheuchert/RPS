@@ -6,6 +6,6 @@
         Paper = 2, //beats Rock
         Scissors = 3, //beats Paper
         Dynamite = 4, //beats everything but Waterbomb
-        Warterbomb = 5 //loses to everything but Dynamite
+        Warterbomb = 5 //loses to everything but Dynamite 
     }
 }
